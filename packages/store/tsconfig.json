@@ -4,6 +4,6 @@
     "downlevelIteration": true,
     "outDir": "dist"
   },
-  "include": ["src", "../store/src/store.test.ts"],
+  "include": ["src"],
   "exclude": ["node_modules", "dist"]
 }
