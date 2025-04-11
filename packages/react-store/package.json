@@ -20,8 +20,8 @@
     "dev": "tsup src/index.ts --format cjs,esm --dts --watch"
   },
   "devDependencies": {
-    "@illostack/eslint-config": "^0.0.1",
-    "@illostack/typescript-config": "^0.0.1",
+    "@illostack/eslint-config": "^0.0.3",
+    "@illostack/typescript-config": "^0.0.3",
     "@types/react": "^19.0.0",
     "react": "^19.0.0"
   }
