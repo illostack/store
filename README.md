@@ -1,5 +1,7 @@
 # IlloStack Store
 
+![alt text](./docs/@illostackstore.png)
+
 @illostack/react-store and @illostack/store are lightweight state management libraries for JavaScript and TypeScript applications. `@illostack/react-store` is specifically designed for React, while `@illostack/store` is a framework-agnostic version of the same core functionality.
 
 ## Features
